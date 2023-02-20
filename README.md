@@ -2,7 +2,7 @@
 **®esistine**'s Open-Source Cyber-Security Guide
 
 ## A practical guide as simple as finger-counting
-Please refer to the project's [Wiki](https://github.com/Resistine/cyber-security/wiki) and/or [resistine.github.io/cyber-security](resistine.github.io/cyber-security).
+Please refer to the project's [Wiki](https://github.com/Resistine/cyber-security/wiki) and/or resistine.github.io/cyber-security soon.
 
 ## License
    Copyright 2003 Resistine
