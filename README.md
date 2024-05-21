@@ -1,5 +1,5 @@
-# Cyber-Security Finger-Counting
-**®esistine**'s Open-Source Cyber-Security Guide
+# CyberSecurity Finger Counting
+**®esistine**'s Open Source CyberSecurity Guide
 
 ## A practical guide as simple as finger-counting
 Please refer to the project's [Wiki](https://github.com/Resistine/cyber-security/wiki) and/or resistine.github.io/cyber-security soon.
